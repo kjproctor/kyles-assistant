@@ -1,6 +1,3 @@
-import os
-
-os.environ["OPENAI_API_KEY"] = "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"
 # from langchain_community.document_loaders import ReadTheDocsLoader
 from langchain_community.document_loaders import PyPDFLoader
 
