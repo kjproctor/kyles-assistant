@@ -1,0 +1,9 @@
+.vscode/
+.eslintcache
+.DS_Store
+.env
+venv/
+*.pyc
+__pycache__/**
+/.idea/
+*.iml
